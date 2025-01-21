@@ -1,0 +1,24 @@
+.a{
+    margin-left: auto;
+    margin-right: auto;
+    gap: 1.2rem;
+}
+body{
+    background-color: black;
+}
+.c-w{
+    color: white;
+}
+.bb{
+    background-color: black;
+}
+.b-img{
+    width: 95%;
+    height: 80%;
+}
+.f-s{
+    font-size: 19px;
+}
+.sub-1{
+    margin-left: 3%;
+}
